@@ -58,12 +58,10 @@ _"Passionate about creating responsive and user-friendly web applications."_
   </a>
   <br>
   <a href="https://github.com/Ballbon">
-    <img src="https://img.shields.io/badge/GitHub-ZpeedX-0b1220?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2f2a24" />
+    <img src="https://img.shields.io/badge/GitHub-Ballon-0b1220?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2f2a24" />
   </a>
   <br>
-  <a href="https://www.linkedin.com/in/nontakorn-ut-umong-9a4747386/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nontakorn%20Ut--umong-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2f2a24" />
-  </a>
+
 </p>
 
 
