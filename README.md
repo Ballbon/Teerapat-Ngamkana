@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Teerapat Ngamkana  
+<h1 align="center">👋 Hi, I'm Teerapat Ngamkana</h1>
 
 🎯 **Frontend Developer | Lifelong Learner | Tech Enthusiast**  
 _"Passionate about creating responsive and user-friendly web applications."_  
