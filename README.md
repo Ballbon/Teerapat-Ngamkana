@@ -39,16 +39,22 @@ _"Passionate about creating responsive and user-friendly web applications."_
 
 ---
 
-## 📊 GitHub Stats  
-![Teerapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeerapatNgamkana&show_icons=true&theme=tokyonight)  
+## 📊 Stats & Activity
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZpeedX&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&v=2" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZpeedX&layout=compact&theme=rose_pine&hide_border=true&v=2" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=ZpeedX&theme=rose_pine&hide_border=true&v=2" />
+
+</div>
 ---
 
 ## 📫 Contact Me
 - 📧 Email: **aa093409172@gmail.com**  
 - 📱 Phone: **+66 62 070 2548**  
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio Website](#)  
+
 
 ---
 ⭐️ *“I am eager to grow as a developer and contribute to building high-quality web applications.”*  
