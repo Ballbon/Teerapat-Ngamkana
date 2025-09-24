@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/TeerapatNgamkana/TeerapatNgamkana/raw/main/profile.png" width="180" style="border-radius:50%;" />
+</p>
+
+
 <h1 align="center">👋 Hi, I'm Teerapat Ngamkana</h1>
 
 🎯 **Frontend Developer | Lifelong Learner | Tech Enthusiast**  
