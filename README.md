@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TeerapatNgamkana/TeerapatNgamkana/raw/main/profile.png" width="180" style="border-radius:50%;" />
+  <img src="https://github.com/Ballbon/Teerapat-Ngamkana/blob/main/getstudentimage.jpg?raw=true" width="180" style="border-radius:50%;" />
 </p>
 
 
